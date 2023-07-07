@@ -1,0 +1,7 @@
+C:\Users\emmag\source\repos\WebApplication2\WebApplication2\obj\Release\net7.0\PubTmp\Out\WebApplication2.exe
+C:\Users\emmag\source\repos\WebApplication2\WebApplication2\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\emmag\source\repos\WebApplication2\WebApplication2\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\emmag\source\repos\WebApplication2\WebApplication2\obj\Release\net7.0\PubTmp\Out\WebApplication2.dll
+C:\Users\emmag\source\repos\WebApplication2\WebApplication2\obj\Release\net7.0\PubTmp\Out\WebApplication2.deps.json
+C:\Users\emmag\source\repos\WebApplication2\WebApplication2\obj\Release\net7.0\PubTmp\Out\WebApplication2.runtimeconfig.json
+C:\Users\emmag\source\repos\WebApplication2\WebApplication2\obj\Release\net7.0\PubTmp\Out\WebApplication2.pdb
